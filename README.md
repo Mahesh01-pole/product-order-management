@@ -85,3 +85,6 @@ src/main/java/com/example/pms
 ├── repository/
 ├── service/
 └── util/
+
+#Output
+<img width="899" height="253" alt="image" src="https://github.com/user-attachments/assets/b682b98f-d2e9-4bc8-8139-c211b28d0b64" />
