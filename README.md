@@ -88,3 +88,13 @@ src/main/java/com/example/pms
 
 #Output
 <img width="899" height="253" alt="image" src="https://github.com/user-attachments/assets/b682b98f-d2e9-4bc8-8139-c211b28d0b64" />
+#Admin_page
+<img width="955" height="455" alt="image" src="https://github.com/user-attachments/assets/6f9dfd3a-8699-4a22-b723-372359a2880d" />
+#User page
+<img width="952" height="412" alt="image" src="https://github.com/user-attachments/assets/14f5354d-b4d9-436d-bb39-5ab89fc14997" />
+#addTo_cart
+<img width="953" height="256" alt="image" src="https://github.com/user-attachments/assets/1d80005f-6ef5-49c2-8a1d-a8759b714292" />
+#my_orders
+<img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/f48a4da3-6e60-4eb6-8d19-428ec46be032" />
+
+
