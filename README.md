@@ -96,5 +96,7 @@ src/main/java/com/example/pms
 <img width="953" height="256" alt="image" src="https://github.com/user-attachments/assets/1d80005f-6ef5-49c2-8a1d-a8759b714292" />
 #my_orders
 <img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/f48a4da3-6e60-4eb6-8d19-428ec46be032" />
+#ordering items more than in stock
+<img width="950" height="465" alt="image" src="https://github.com/user-attachments/assets/9f7b923e-ef22-4f3e-a22f-b1f939b9f44f" />
 
 
